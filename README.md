@@ -15,7 +15,7 @@ A demo for a social network backend. Using MongoDB, you can create users, get us
 # Installation
 Pull from github and install node , express, and mongoose, then run on insomnia.
 # Instructions
-undefined
+Follow along with walkthrough video "here"
 ## Usage
 See above
 ## Credits
